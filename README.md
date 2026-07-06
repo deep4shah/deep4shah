@@ -41,6 +41,6 @@ Three production-style ML projects, refactored from notebooks into modular, type
 ## 📫 Connect With Me
 
 - 🌐 **Personal Website:** [deep-shah-portfolio-livid.vercel.app](https://deep-shah-portfolio-livid.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- ✍️ **Medium:** [medium.com/@YOUR-MEDIUM-HANDLE](https://medium.com/@YOUR-MEDIUM-HANDLE)
-- 📧 **Email:** your.email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/deep-r-shah/)
+- ✍️ **Medium:** [medium.com/@YOUR-MEDIUM-HANDLE](https://medium.com/@deep4shah)
+- 📧 **Email:** deep4shah@gmail.com
