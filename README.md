@@ -4,7 +4,7 @@
 
 I build end-to-end ML and LLM-powered projects — from data pipelines to deployed apps. With an MBA and prior experience as an Assistant Sales Manager, I bring a business-first lens to data science: I don't just build models, I connect them to decisions.
 
-💬 **Talk to my AI twin:** I built a RAG chatbot trained on my own background — ask it anything about me at **[deep-shah-portfolio-livid.vercel.app](https://deep4shah.vercel.app/#chat)**
+💬 **Talk to my AI twin:** I built a RAG chatbot trained on my own background — ask it anything about me at **[my personal site](https://deep4shah.vercel.app/#chat)**
 
 ---
 
