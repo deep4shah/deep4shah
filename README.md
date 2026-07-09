@@ -1,4 +1,4 @@
-# Hi, I'm Deep Shah 👋
+# Hi, I'm Deep Shah
 
 **Data Scientist | GenAI & LLM Applications | Surat, India**
 
@@ -38,7 +38,7 @@ Three production-style ML projects, refactored from notebooks into modular, type
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - 🌐 **Personal Website:** https://deep4shah.vercel.app
 - 💼 **LinkedIn:** https://www.linkedin.com/in/deep-r-shah/
